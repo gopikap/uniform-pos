@@ -1,0 +1,118 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<faqs>
+<faq><id>1</id>
+<title>When can I start the tele-consult call?</title>
+<content>
+On the Dashboard screen you can view all the tele-consult appointments
+Each appointment is booked with an "advance call time" for a doctor to call the patient in advance (e.g. a doctor can call 30 minutes ahead of a scheduled appointment, if agreed to by the patient)
+Based on the selected time range for the booked appointments a Start icon is displayed Once the Start icon is enabled on the Dashboard screen, Wellzio offers a 30 minutes "grace period" after the appointment time (this is how long the patient can be late to the appointment by).
+When the appointment time exceeds 30 minutes grace time the status gets updated to Missed and the icon will be disabled. The patient will have to call LVP and schedule a separate appointment.
+</content>
+</faq>
+<faq><id>2</id>
+<title>How can I start the tele-consult call?</title>
+<content>
+On the Dashboard screen you can view all the tele-consult appointments
+At the scheduled appointment time a blue button gets enabled with Start text
+Click on the Start button to initiate the video call with the specified patient.
+</content>
+</faq>
+<faq><id>3</id>
+<title>Can I do an Audio-only call?</title>
+<content>
+Yes, it is possible to do a Audio-only call with a patient
+For each patient under Actions column, click on the "3 dots"
+Find the Audio Call option
+Clicking on Audio Call takes you to Call Patient screen
+Click on "Make a call".
+</content></faq>
+<faq><id>4</id>
+<title>How do I see patient history?</title>
+<content>
+On Dashboard screen, patient details will be displayed for booked appointments
+Click on the Patient name
+Patient History Chart screen is displayed
+Under the history, patient history details will be displayed
+History details gets displayed in OVS under medical history and family history.
+</content></faq>
+<faq><id>5</id>
+<title>How do I cancel an appointment?</title>
+<content>
+On Dashboard screen, patient details will be displayed for booked appointments
+For each patient under Actions column, click on the "3 dots"
+Select Cancel Appointment
+A specific patient appointment can be canceled from the Schedule page by clicking on the Delete icon of a particular patient.
+</content></faq>
+<faq><id>6</id><title>How do I add a new Physician to Wellzio?</title>
+<content>
+On the Dashboard screen click on the Settings link displayed next to physician name
+Click on theAdministration tab
+Select the appropriate Center and Organization from the drop-down list
+Under "Add Staff", select the user type from the drop-down list
+Enter details
+Click on Add icon  
+</content></faq>
+<faq><id>7</id><title>If patient has poor internet connectivity, how do I switch from Video call to Audio call?</title>
+<content>
+Switch from video to Audio call by clicking on Call icon displayed next to the patient name in the OVS. 
+</content></faq>
+<faq><id>8</id><title>How do I enter data in the OVS?</title>
+<content>
+Prior to entering patient details, Doctor must select "Patient Attended" and "Consent Taken" to Yes.
+This puts the OVS in editable mode. After this, the Physician can enter data.
+</content>
+</faq>
+<faq><id>9</id><title>How do I edit a Prescription</title>
+<content>
+As soon as a call is initiated by the Physician, an OVS screen is displayed
+Doctor must select "Patient Attended" and "Consent Taken" to Yes
+This puts the OVS in editable mode. After this, the Physician can enter data. To do this:/***/Go to prescription tab to prescribe medication;Click on View Summary;Select one of Pend or Edit the OVS.;In Pend mode, the Physician can revisit the OVS and then finally Submit;Once an OVS is submitted, there is no option to edit the prescription again
+</content>
+</faq>
+<faq><id>10</id><title>How do I edit the prescription after I submitting the visit summary</title>
+<content>
+Once an OVS is submitted, there is no option to edit the prescription again
+</content>
+</faq>
+<faq><id>11</id><title>How do I upload my digital signature?</title>
+<content>
+On the Dashboard screen, click on the Settings link displayed next to your name
+Click on Accounts
+Click Upload Signature button and upload a jpeg/jpg file of your signature.
+</content>
+</faq>
+<faq><id>12</id><title>How do I check the revenue generated for each physician?</title>
+<content>
+Click on the Analytics tab 
+Select Physician's name from drop-down
+Select the date range
+</content>
+</faq>
+<faq><id>13</id><title>How do I change my password?</title>
+<content>
+On the Dashboard screen click on Settings displayed next to your name 
+Click on Accounts
+Enter current password
+Enter new password and confirm new password
+Click on Change for updating to new password
+</content>
+</faq>
+<faq><id>14</id><title>How do I change my practice hours?</title>
+<content>
+On the Dashboard screen click on Settings displayed next to your name 
+Click on Organization
+Click on Practice Hours
+Click Create New
+Create New hours page is displayed, select From date and time and To date and time
+Click on Create to publish practice hours.
+</content>
+</faq>
+<faq><id>15</id><title>How do I look up appointments for a future date?</title>
+<content>
+On the Dashboard page
+Select date from the date field
+List of appointment booked are displayed.
+</content>
+</faq>
+</faqs>

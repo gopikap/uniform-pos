@@ -1,0 +1,14 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<faqs>
+	<faq>
+		<id>5</id>
+		<title>How do I cancel an appointment?</title>
+		<content>
+			On Dashboard screen, patient details will be displayed for booked appointments
+			For each patient under Actions column, click on the "3 dots"
+			Select Cancel Appointment
+			A specific patient appointment can be canceled from the Schedule page by clicking on the Delete icon of a particular patient./***/ChildPoint1;ChildPoint2
+		</content>
+	</faq>
+</faqs>
